@@ -1,13 +1,11 @@
-# Aula 2 - Linguagem de Programação
+# Aula 2 - Linguagem de Programação 🖥
 
-Anotações de conceitos e códigos apresentados em aula
-
-## Conceitos da Programação
+## Conceitos da Programação ⁉
 
 - "using namespace std" é utilizado para evitar 'std::' antes ex: std::cout
 - comandos para quebra de linha: \n e <<endl
 
-## Variáveis
+## Variáveis 🗝
 
 - bool: 0(false) ou 1(true)
 - char: recebe somete um caracter, no caso uma letra
